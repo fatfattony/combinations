@@ -1,4 +1,9 @@
+This script return all combinations of alphabet's characters for pointed lenght.
+
+```bash run.sh {{numberOfCharathers}} {{alphabet}}```
+
 example
+
 
 ```bash run.sh 5 abcdef```
 
