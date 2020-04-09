@@ -1,4 +1,4 @@
-This script return all combinations of alphabet's characters for pointed lenght.
+This script return all combinations of alphabet's characters for the pointed lenght.
 
 ```bash run.sh {{numberOfCharathers}} {{alphabet}}```
 
